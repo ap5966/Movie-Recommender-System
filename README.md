@@ -5,7 +5,9 @@ This project aims to build and evaluate various recommendation algorithms, such 
 
 # Contents:
 **1. Jupyter Notebooks:** Contains Python notebooks with code for data preprocessing, model development, and evaluation of recommendation algorithms.
+
 **2. Data:** Includes sample datasets or links to external data sources used for training and testing the recommender system.
+
 **3. Models:** Store trained models or intermediate files generated during the process.
 
 # Objective:
@@ -15,3 +17,4 @@ This project aims to build and evaluate various recommendation algorithms, such 
 4. Provide an interactive user interface to showcase movie recommendations.
 
 Let's collaborate and build a powerful Movie Recommender System that enhances users' movie-watching experiences and helps discover new and exciting films!
+
